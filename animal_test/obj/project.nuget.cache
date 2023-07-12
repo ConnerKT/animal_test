@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uBgf3fNXS7K/8p6VKevjo4IRYuFwQK09tEfTRz4zM/Or2fL6qi5QF+93VmECgfHel0HuUHX6yPugzRbhZgenLw==",
+  "success": true,
+  "projectFilePath": "/Users/connerthompson/Documents/Coding Central/GitHub/animal_test/animal_test/animal_test/animal_test.csproj",
+  "expectedPackageFiles": [
+    "/Users/connerthompson/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.19/microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "/Users/connerthompson/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.19/microsoft.netcore.app.host.osx-x64.6.0.19.nupkg.sha512",
+    "/Users/connerthompson/.nuget/packages/microsoft.netcore.app.ref/6.0.19/microsoft.netcore.app.ref.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
