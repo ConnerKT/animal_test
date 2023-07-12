@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "sDuiEX4xrj+ePExKiKrjaBsPJhbXnITWeZZi9SCz1D3CGTZBBifAyp7gx55VVIPBywCNxx3cgmkqbqd+wRsbdA==",
+  "dgSpecHash": "EOFl8AsDyv7AL6bdFzJ6v1IoHIUTe7AiDTYIVOkomhlX2kV0PEvTqcAPyySIukRPJUoID4cNURpkkWyKBdpq3g==",
   "success": true,
-  "projectFilePath": "/Users/connerthompson/Documents/Coding Central/GitHub/animal_test/animal_test/animal_test.csproj",
+  "projectFilePath": "/Users/connerthompson/Documents/Coding Central/GitHub/animal_test/Zoo_Test/Zoo_Test.csproj",
   "expectedPackageFiles": [
+    "/Users/connerthompson/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
     "/Users/connerthompson/.nuget/packages/microsoft.codecoverage/17.1.0/microsoft.codecoverage.17.1.0.nupkg.sha512",
     "/Users/connerthompson/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",
     "/Users/connerthompson/.nuget/packages/microsoft.net.test.sdk/17.1.0/microsoft.net.test.sdk.17.1.0.nupkg.sha512",
@@ -94,8 +95,8 @@
     "/Users/connerthompson/.nuget/packages/xunit.core/2.4.1/xunit.core.2.4.1.nupkg.sha512",
     "/Users/connerthompson/.nuget/packages/xunit.extensibility.core/2.4.1/xunit.extensibility.core.2.4.1.nupkg.sha512",
     "/Users/connerthompson/.nuget/packages/xunit.extensibility.execution/2.4.1/xunit.extensibility.execution.2.4.1.nupkg.sha512",
+    "/Users/connerthompson/.nuget/packages/xunit.runner.visualstudio/2.4.3/xunit.runner.visualstudio.2.4.3.nupkg.sha512",
     "/Users/connerthompson/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.19/microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
-    "/Users/connerthompson/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.19/microsoft.netcore.app.host.osx-x64.6.0.19.nupkg.sha512",
     "/Users/connerthompson/.nuget/packages/microsoft.netcore.app.ref/6.0.19/microsoft.netcore.app.ref.6.0.19.nupkg.sha512"
   ],
   "logs": []

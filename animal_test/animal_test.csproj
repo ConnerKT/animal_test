@@ -7,4 +7,7 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Zoo_Test\Zoo_Test.csproj" />
+  </ItemGroup>
 </Project>
